@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-AI+IDE-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Kiro Free Installer** — Kiro is an AI-powered IDE from Amazon Web Services focused on spec-driven development. Works without internet access, no account required. Full offline installation.
+**💻 Kiro Free Installer** — Kiro is an AI-powered IDE from Amazon Web Services designed to accelerate software development with spec-driven development and AI assistance. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Kiro
 
-Kiro is an AI-powered IDE from Amazon Web Services focused on spec-driven development. It helps developers define requirements in natural language, generates implementation plans, and uses AI to assist with coding, testing, and documentation within the AWS ecosystem.
+Kiro is an AI-powered IDE from Amazon Web Services designed to accelerate software development with spec-driven development and AI assistance. Create specifications that guide AI-generated code, iterate with natural language instructions, and leverage deep AWS service integration for cloud-native development. Kiro targets developers building AWS applications who want structured AI assistance throughout the development process.
 
 ---
 
 ## ❌ Problem: Kiro is hard to access
 
-- **AWS Ecosystem** — Best value for developers working within AWS infrastructure
-- **Early Product** — Feature set and stability still maturing
-- **AI Dependency** — Core workflow depends on AWS AI services with associated costs
-- **New Paradigm** — Spec-driven development approach requires adapting existing workflows
+- **AWS Focus** — Primarily optimized for AWS-based development workflows
+- **Commercial Pricing** — Usage-based pricing for AI features
+- **Early Stage** — New product with ongoing feature development
+- **Internet Required** — Cloud AI features require connectivity
 
 ---
 
@@ -121,7 +121,7 @@ Kiro is an AI-powered IDE from Amazon Web Services focused on spec-driven develo
 
 ---
 
-**Kiro Free Installer** — Kiro is an AI-powered IDE from Amazon Web Services focused on spec-driven development. Install without internet connection today!
+**Kiro Free Installer** — Kiro is an AI-powered IDE from Amazon Web Services designed to accelerate software development with spec-driven development and AI assistance. Install without internet connection today!
 
 <div align="center">
 
